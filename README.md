@@ -33,6 +33,8 @@ A front-end clone of Amazon.com built using HTML, CSS, and JavaScript. It replic
 
 
 
+# Author 
+Dhruva Kawli
 
 
 
